@@ -1,0 +1,25 @@
+*
+body
+.products
+{
+  width: 500px;
+  height: auto; 
+  background-color: red; 
+  padding:50px;
+}
+.product-child
+{
+    width: 20px;
+  height: 100px; 
+  background-color: yellow;
+  font-size: 50;
+  margin-bottom: 20;
+}
+.dummy-text
+{
+   background-color: green;
+   padding: 10px;
+   margin :10px;
+   width :50px;
+   display:inline-block;
+}
